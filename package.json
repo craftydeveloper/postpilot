@@ -1,0 +1,11 @@
+{
+  "name": "postpilot",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "A local drafting board for social posts without account connections or automatic publishing.",
+  "scripts": {
+    "test": "node --test",
+    "validate": "node scripts/validate-static-app.mjs"
+  }
+}
