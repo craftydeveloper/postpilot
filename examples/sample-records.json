@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "note": "Synthetic documentation examples; not loaded by the app.",
+  "records": [
+    {
+      "id": "draft-1",
+      "title": "Product update",
+      "platform": "social",
+      "body": "Sample draft for review.",
+      "status": "draft"
+    },
+    {
+      "id": "draft-2",
+      "title": "Event reminder",
+      "platform": "social",
+      "body": "Second sample draft.",
+      "status": "needs-review"
+    }
+  ]
+}
